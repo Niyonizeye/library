@@ -35,7 +35,7 @@
 
         <div class="container main-header-container">
 
-            <div class="site-branding">
+            <div class="site-branding" style="line-height: 60px;">
 
                 <a href="/" class="logo-link" rel="home" target="_self"> Library Management System</a>
 
@@ -114,11 +114,11 @@
             <div class="row">
                 <div class="section-inner col-md-6">
                     <div class="section-header">
-                        <h2 class="section-title">Library Location &amp; Map</h2>
+                        <h3 class="section-title">Library Location</h3>
                         <div class="section-info">
                             <p><a href="mailto:">info@library.com </a></p>
-                            <p>Accountancy FIrm LLC, 154 Street, 28<br />
-                                <span class="small">kigali, NY 10004,</span> <a href="tel:"><strong>800 - 123 - 4567 </strong></a></p>
+                            
+                                <span class="small">kigali, NYARUGENGE</span>
                         </div>
                     </div>
                     <div class="section-content">
@@ -173,7 +173,7 @@
                     </ul>
                 </div>
                 <div class="site-info">
-                    <p>&copy; 2019. All RIghts Reserved. RWAMUHIZI JAMES. Designed &amp; Developed by <a href="#" target="_blank" rel="noopener">RWAMUHIZI JAMES</a></p>
+                    <p>&copy; 2021. All RIghts Reserved. RWAMUHIZI JAMES. Designed &amp; Developed by <a href="#" target="_blank" rel="noopener">RWAMUHIZI JAMES</a></p>
                 </div>
             </div>
         </div>

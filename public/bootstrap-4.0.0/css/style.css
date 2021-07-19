@@ -1769,7 +1769,7 @@ input[type="text"], input[type="email"], input[type="url"], input[type="password
     height: 40px;   
     color: inherit;
     font-size: 18px;
-    padding: 10px 0px;
+    padding: 10px 15px;
     line-height: 1;
    
     -webkit-border-radius: 0;
@@ -2518,7 +2518,7 @@ ul.slick-dots, .owl-dots {
     font-weight: 300;
     font-style: italic;
     font-family: Poppins;
-    padding: 6px 0;
+    padding: 6px 8px;
     height: 62px;
     text-transform: capitalize;
     letter-spacing: 1.3px;

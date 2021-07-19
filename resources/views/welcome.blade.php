@@ -109,7 +109,7 @@
 <section id="articles" class="section articles-section" style="background-image:url()" data-eltype="frontpagesection">
 	<div class="container section-inner">
 		<div class="section-header">
-			<h2 class="section-title">Latest Books <br/>to read</h2>
+			<h2 class="section-title">Latest Books to read</h2>
 		</div>
 
 		<div class="section-content">
